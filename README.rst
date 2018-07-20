@@ -6,6 +6,14 @@
 redturtle.agidtheme
 ==============================================================================
 
+
+   **WARNING!**
+
+   **DEPRECATED** in favor of https://github.com/italia/design.plone.theme
+
+
+
+
 Il primo tema Plone conforme a `Italia design system`__.
 
 __ https://design-italia.readthedocs.io/it/stable/index.html
