@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-2.2.3 (unreleased)
+2.2.3 (2018-08-06)
 ------------------
 
 - Fix uninstall step
